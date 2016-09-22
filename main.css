@@ -1,11 +1,17 @@
 .container {
-    padding-left: 30px;
-    padding-right: 30px;
+    background-color: darkgray;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 body {  
-background: color: red;
-font-family: 'Permanent Marker', cursive;
+    background: color: red;
+    font-family: 'Permanent Marker', cursive;
+    background-image: url("http://mimg.movoto.com/1.7.93/novaimgs/images/nophoto_small.gif");
+    background-size: cover;                     
+    background-repeat: no-repeat;
+    background-position: center center; 
+    padding: 20px;
 }
 
 .aboutkendrick {
@@ -16,6 +22,16 @@ footer {
     display: block;
 }
 
+div {
+    background-color: darkgray;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    background-color: black;
+}
 
 
 
