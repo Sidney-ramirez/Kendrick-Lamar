@@ -7,15 +7,11 @@
 body {  
     background: color: red;
     font-family: 'Permanent Marker', cursive;
-    background-image: url("http://mimg.movoto.com/1.7.93/novaimgs/images/nophoto_small.gif");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5d/Compton,_1895,_F%C3%BCnffingerspitze_von_Osten.jpg");
     background-size: cover;                     
     background-repeat: no-repeat;
     background-position: center center; 
     padding: 20px;
-}
-
-.aboutkendrick {
-    font-size: 20px;
 }
 
 footer { 
