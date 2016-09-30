@@ -20,6 +20,7 @@ footer {
 
 div {
     background-color: darkgray;
+    padding: 20px;
 }
 
 .nav {
@@ -29,8 +30,37 @@ div {
     background-color: black;
 }
 
+nav {
+    background-color: #333;
+    margin: 0;
+    overflow: hidden;
+}
 
+nav ul{
+    margin: 0;
+    padding: 0;
+}
 
+nav ul li {
 
+    display: inline-block;
+    list-style-type: none;
+}
+ 
+nav > ul > li > a {
+    color: #aaa;
+    background-color:#333;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
 
-	
+.aboutkendrick {
+    font-size: 20px;
+}
+
+.presentation {
+    float: left;
+}
+
