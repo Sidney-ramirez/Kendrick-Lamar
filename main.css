@@ -1,11 +1,10 @@
 .container {
-    background-color: darkgray;
+    background-color: #aaa;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 body {  
-    background: color: red;
     font-family: 'Permanent Marker', cursive;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5d/Compton,_1895,_F%C3%BCnffingerspitze_von_Osten.jpg");
     background-size: cover;                     
@@ -19,7 +18,7 @@ footer {
 }
 
 div {
-    background-color: darkgray;
+    background-color: #aaa;
     padding: 20px;
 }
 
@@ -27,7 +26,7 @@ div {
     list-style-type: none;
     margin: 0;
     padding: 0px;
-    background-color: black;
+    background-color: #333;
 }
 
 nav {
